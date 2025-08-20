@@ -98,7 +98,6 @@ button {
 .card-box{
     width: 70%;
     height: 250px;
-    border: 1px solid black;
     margin: 20px;
 }
 
@@ -112,4 +111,5 @@ button {
     width: 100%;
     background-color: black;
     text-align: center;
+
 }
